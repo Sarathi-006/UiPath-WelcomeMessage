@@ -32,7 +32,7 @@
 
 - IF → Welcome Sita
 
-- SWITCH → Namaste Sita, welcome!
+- SWITCH → Welcome Sita
 
 - Input: John
 
@@ -41,3 +41,7 @@
 - SWITCH → Welcome John
 
 ## Output Screenshot
+<img width="1919" height="980" alt="Screenshot 2025-10-28 084207" src="https://github.com/user-attachments/assets/1ba1401a-da3f-403b-8e9d-04f6fea86778" />
+<img width="1918" height="979" alt="Screenshot 2025-10-28 084220" src="https://github.com/user-attachments/assets/145ed0ce-9117-43e8-be1a-4d0b517deb9b" />
+
+
