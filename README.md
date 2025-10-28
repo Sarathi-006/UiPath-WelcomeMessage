@@ -16,6 +16,7 @@
 🔹 IF Condition
 - If input = RAM → Displays: Welcome Mr. Ramachandran
 - Otherwise → Displays: Welcome
+
 🔹 SWITCH Case
 - Case "RAM" → Hello Ram! Glad to see you again.
 - Case "SITA" → Namaste Sita, welcome!
